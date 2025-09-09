@@ -119,6 +119,6 @@ Lightweight project — feel free to open issues / PRs with clean, minimal chang
 
 ---
 ## 🙌 Inspiration
-Just scratching the personal itch of having to frequently change Node versions, in as few movements as possible, ideally without even retyping versions (yes, that often)
+Just scratching the personal itch of having to frequently change Node versions, in as few movements as possible, ideally without even retyping versions (yes, that often). I enumerated several cases at the beginning of the file, but since you're already here, I can't really remember the syntax of all the version switchers and it's too much typing, this allows you to just do 'nsw' '1' '7' done- wow! nsw! great alias! use it, typing eats away at seconds of your time and that compounds :D
 
 Enjoy! ⚡
