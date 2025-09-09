@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nodepicker"
+version = "0.1.0"
+description = "Interactive tmux node picker"
+dependencies = [
+    "libtmux>=0.30.0"
+]
+
+[project.scripts]
+nodepicker = "nodepicker.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
